@@ -1,5 +1,6 @@
 public HelloWorld{
 	public static void main(String[] args){
-	
+	    String greeting ="hello:";
+		System.out.println(greeting + args[0]);
 	}
 }
